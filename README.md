@@ -17,6 +17,7 @@ End the program
 #Program to find the solution for the given linear equations.
 #Developed by: E HEMACHANDRAN
 #RegisterNumber: 212224230093
+
 ```
 import numpy as np
 A= np.array([[1,-3],[3,1]])
